@@ -1,0 +1,10 @@
+{
+  "name": "safeguard",
+  "version": "0.0.1",
+  "description": "(npm install --save-dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "config": "^1.25.1",
+    "twitter": "^1.7.0"
+  }
+}
